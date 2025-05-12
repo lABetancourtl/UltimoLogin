@@ -114,7 +114,7 @@ export function MantenimientoFormPage() {
                     className="input-file"
                 />
                 <button type="submit" disabled={!file} className="submit-button">
-                    Cargar
+                    Cargarr
                 </button>
             </form>
         </div>
