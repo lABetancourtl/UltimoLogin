@@ -504,7 +504,7 @@ export function MantenimientoCard({
                                 disabled={loading}
                                 className="fin-button"
                             >
-                                Registrar Finish
+                                Registrar Fin
                             </button>
                         )}
                     </div>
